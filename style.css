@@ -1,6 +1,7 @@
 
 h1{
     font-weight: bold;
+    color: crimson;
 }
  
 .imagem-fundo  {  width: 100%;  height: 100vh; background-image: url('coco.jpg');  background-size: cover;  background-position: center; background-repeat: no-repeat}
